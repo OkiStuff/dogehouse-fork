@@ -1,3 +1,7 @@
+**DogeHouse is Dead**
+
+
+
 <a href="https://dogehouse.tv"><p align="center">
 <img height=100 src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg"/>
 
